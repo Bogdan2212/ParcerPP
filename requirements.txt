@@ -1,0 +1,8 @@
+aiogram==2.16
+emoji==1.6.1
+beautifulsoup4==4.10.0
+lxml==4.6.4
+requests==2.26.0
+user-agent==0.1.9
+regex==2021.11.10
+
